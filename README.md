@@ -21,3 +21,5 @@ I figured it was about time I have an about me page here so here goes. A lot of 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vmahajan1/) / [email](mailto:vma.mahajan@gmail.com).
 - ⚡ Fun fact: I don't have any contributions to the Arctic Vault. I also deliberately rock light mode in Notion.
+
+<img src="./metrics.svg" alt="Github metrics" />
