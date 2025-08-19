@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name's Vaibhav.
+I've worked on various backend projects ranging from POCs to production deployed systems, in languages ranging from Python to Java. I've had forays into Kotlin, Groovy and (really long back) C++ as well.
+I figured it was about time I have an about me page here so here goes. A lot of my commits have been for private company repos, but I'll occasionally post some public things too.
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vmahajan1/) / [email](mailto:vma.mahajan@gmail.com).
+- ⚡ Fun fact: I don't have any contributions to the Arctic Vault. I also deliberately rock light mode in Notion.
